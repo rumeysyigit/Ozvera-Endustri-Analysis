@@ -51,3 +51,23 @@ SQL analysis and Power BI dashboard development are completed. The repository wi
 
 ## Disclaimer
 This is a fictional portfolio project. The data is simulated and does not represent a real company or its operations.
+
+## Dashboard Screenshots
+
+### 1. Overview
+![Overview](01_Overview.png)
+
+### 2. Sales & Orders
+![Sales and Orders](02_Sales_Orders.png)
+
+### 3. Production
+![Production](03_Production.png)
+
+### 4. Target Performance
+![Target Performance](04_Target_Performance.png)
+
+### 5. Machine & Downtime
+![Machine and Downtime](05_Machine_Downtime.png)
+
+### 6. Quality
+![Quality](06_Quality.png)
